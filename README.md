@@ -3,6 +3,7 @@
 A new Flutter application.
 
 ## Getting Started
+git clone https://github.com/hagarici/MoiL.git
 
 This project is a starting point for a Flutter application.
 
